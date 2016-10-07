@@ -8,7 +8,8 @@ After <a name="landed">landed</a> around 06:30 am, we picked up our JR passes<su
 
 Trains in Japan are amazing! They are extremely clean, like most things in Japan, and comfortable. I'm not exaggerating when I say Shinkansen is more enjoyable than airplanes.
 
-![](day1/IMG_20160904_204924.jpg)
+<img src="day1/IMG_20160904_204924.jpg" width="300">
+
 
 I enjoyed the view along our ride very much. The sky was blue and clear. We passes some fields and saw a lot of typical, Japanese styled, small houses.
 
