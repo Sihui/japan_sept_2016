@@ -1,10 +1,10 @@
 ### Day1 Mon. 09/05/16 [Tokyo 東京]
 ---
 
-06:30 [landed @NRT Airport] -> ~09:00 [Tokyo Station] -> Odaiba onsen
+06:30 [landed @NRT Airport](#landed) -> ~09:00 [Tokyo Station](#tokyo_station) -> [food](#first_meal) -> [Ikebukuro Station & Airbnb place](#ikebukuro_station) -> [Odaiba Onsen](#odaiba_onsen)
 
 ---
-After landed around 06:30 am, we picked up our JR passes<sup>[1](#jrpass)</sup> and pocket Wifi<sup>[2](#pocketWifi)</sup> and got some cashes<sup>[3](#cash)</sup> from a ATM at the Narita International Airport. Then we took the Narita Express, covered by our JR Passes, to get to Tokyo!
+After <a name="landed">landed</a> around 06:30 am, we picked up our JR passes<sup>[1](#jrpass)</sup> and pocket Wifi<sup>[2](#pocketWifi)</sup> and got some cashes<sup>[3](#cash)</sup> from a ATM at the Narita International Airport. Then we took the Narita Express, covered by our JR Passes, to get to Tokyo!
 
 Trains in Japan are amazing! They are extremely clean, like most things in Japan, and comfortable. I'm not exaggerating when I say Shinkansen is more enjoyable than airplanes.
 
@@ -14,7 +14,7 @@ I enjoyed the view along our ride very much. The sky was blue and clear. We pass
 
 We were a bit tired, after the 13-hours flight, but also excited and ready for the awesome trip ahead of us! Although both Matt and I were a bit hungry after landed, we decided to hold our horses and wait till we get to Tokyo to get our first meal in Japan. "The first meal must to be legit and is worth waiting for!" I said to myself.
 
-After an hour-long ride, we finally arrived at the Tokyo station. It was about 9 am which was apparently a rush hour for people to commute to work. The station was fairly crowded. We saw a tons of food shops: different kind of hot steamed rice, bento box meals, and sweats everywhere!
+After an hour-long ride, we finally arrived at the <a name="tokyo_station">Tokyo station</a>. It was about 9 am which was apparently a rush hour for people to commute to work. The station was fairly crowded. We saw a tons of food shops: different kind of hot steamed rice, bento box meals, and sweats everywhere!
 
 We had been starving and this led us to believe there were tons of great restaurants outside of the station waiting for us. The station was huge, it took us quite a while to figure out how to get outside. Long story short, after resisting all the temptations from foods inside the station and stumbling our ways through, we finally got out and there was nothing but office buildings and a mall with restaurants opening in about two hours.
 ![](day1/14379890_1115746348475058_5032397402719858860_o.jpg)
@@ -44,7 +44,9 @@ On our way to the Airbnb place.
 ![](day1/14424770_1115746925141667_5618408830586566288_o.jpg)
 ![](day1/14409899_1115746961808330_4583957709311564211_o.jpg)
 
+After checking-in and dropping our bags at our Airbnb place, we headed to  
 
+-----
 <a name="jrpass">1</a>: [Japan Rail Pass](http://www.japanrailpass.net/en/about_jrp.html), covers most railways, buses, and ferry boats, is the most economical means of traveling throughout Japan by rail. need to place the order and get a physical exchange order before coming to Japan, the exchange order need to be provided in order to pick up the actual pass after landed in Japan.
 
 <a name="pocketWifi">2</a>: super handy especially if you don't have an international data plan; most of our Airbnb hosts provided their pocket wifi for free, though; we ordered along with our JR passes, but you can also get it at the airport without ordering ahead of time
