@@ -8,7 +8,7 @@ After <a name="landed">landed</a> around 06:30 am, we picked up our JR passes<su
 
 Trains in Japan are amazing! They are extremely clean, like most things in Japan, and comfortable. I'm not exaggerating when I say Shinkansen is more enjoyable than airplanes.
 
-<img src="day1/IMG_20160904_204924.jpg" width="500">
+<img src="day1/IMG_20160904_204924.jpg" width="500"><br/>
 
 
 I enjoyed the view along our ride very much. The sky was blue and clear. We passes some fields and saw a lot of typical, Japanese styled, small houses.
@@ -18,35 +18,31 @@ We were a bit tired, after the 13-hours flight, but also excited and ready for t
 After an hour-long ride, we finally arrived at the <a name="tokyo_station">Tokyo station</a>. It was about 9 am which was apparently a rush hour for people to commute to work. The station was fairly crowded. We saw a tons of food shops: different kind of hot steamed rice, bento box meals, and sweats everywhere!
 
 We had been starving and this led us to believe there were tons of great restaurants outside of the station waiting for us. The station was huge, it took us quite a while to figure out how to get outside. Long story short, after resisting all the temptations from foods inside the station and stumbling our ways through, we finally got out and there was nothing but office buildings and a mall with restaurants opening in about two hours.
-<img src="day1/14379890_1115746348475058_5032397402719858860_o.jpg" width="500">
-<img src="day1/14352256_1115746385141721_8737827987627050363_o.jpg" width="500">
-
-<!-- ![](day1/14379890_1115746348475058_5032397402719858860_o.jpg)
-![](day1/14352256_1115746385141721_8737827987627050363_o.jpg) -->
+<img src="day1/14379890_1115746348475058_5032397402719858860_o.jpg" width="500"><br/>
+<img src="day1/14352256_1115746385141721_8737827987627050363_o.jpg" width="500"><br/>
 
 Matt and I were, in Katherine's words, so grumpy that it scared her. We got back to the station, failed to navigate back to the part packed with tons of food shops, ended up getting Ekibenes from a small shop, got back to the mall and ate there because the station was so crowded that there was no place for us to sit and eat.
 
-![](day1/IMG_20160904_214125.jpg)
+<img src="day1/IMG_20160904_214125.jpg" width="500"><br/>
 Here comes my first <a name="first_meal">meal</a> in Japan! Looking at the picture still makes me hungry now 😂
 
 After resting a bit in the mall, we went to the post office. Man, look at all these postcards! 😱
-![](day1/IMG_20160904_224447.jpg)
-![](day1/IMG_20160904_224508.jpg)
-![](day1/IMG_20160904_224503.jpg)
+<img src="day1/IMG_20160904_224447.jpg" width="500"><br/>
+<img src="day1/IMG_20160904_224447.jpg" width="500"><br/>
+<img src="day1/IMG_20160904_224503.jpg" width="500"><br/>
 They even have series of postcards for trains 😱
 
 Then we headed to <a name="ikebukuro_station">Ikebukuro Station</a> because the [place](https://www.airbnb.com/rooms/4585434) we were staying for the next three nights, booked through Airbnb, was about 15 mins from the station.
 
 There was small cheese tart shop with a long line waiting outside at Ikebukuro Station.
-![](day1/IMG_20160904_233744.jpg)
-![](day1/IMG_20160904_233807.jpg)
-![](day1/14372351_1115746725141687_2298785123460181227_o.jpg)
+<img src="day1/IMG_20160904_233744.jpg" width="500"><br/>
+<img src="day1/IMG_20160904_233807.jpg" width="500"><br/>
+<img src="day1/14372351_1115746725141687_2298785123460181227_o.jpg" width="500"><br/>
 Hot cheese inside 🔥
 
-On our way to the Airbnb place.
-![](day1/14352021_1115746868475006_8883205870417679098_o.jpg)
-![](day1/14424770_1115746925141667_5618408830586566288_o.jpg)
-![](day1/14409899_1115746961808330_4583957709311564211_o.jpg)
+On our way to the Airbnb place.<br/>
+<img src="day1/14352021_1115746868475006_8883205870417679098_o.jpg" width="500"><br/>
+<img src="day1/14409899_1115746961808330_4583957709311564211_o.jpg" width="500"><br/>
 
 After checking-in and dropping our bags at our Airbnb place, we headed to  
 
