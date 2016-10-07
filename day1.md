@@ -44,7 +44,10 @@ On our way to the Airbnb place.<br/>
 <img src="day1/14352021_1115746868475006_8883205870417679098_o.jpg" width="500"><br/>
 <img src="day1/14409899_1115746961808330_4583957709311564211_o.jpg" width="500"><br/>
 
-After checking-in and dropping our bags at our Airbnb place, we headed to  
+After checking-in and dropping our bags at our Airbnb place, we were on our way to <a name="odaiba_onsen">Odaiba Onsen</a>, the main event of our first day in Japan!
+<br/><img src="day1/14362487_1115747058474987_3909970043623033642_o.jpg" width="500"><br/>
+
+
 
 -----
 <a name="jrpass">1</a>: [Japan Rail Pass](http://www.japanrailpass.net/en/about_jrp.html), covers most railways, buses, and ferry boats, is the most economical means of traveling throughout Japan by rail. need to place the order and get a physical exchange order before coming to Japan, the exchange order need to be provided in order to pick up the actual pass after landed in Japan.
