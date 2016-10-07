@@ -1,7 +1,7 @@
 ### Day1 Mon. 09/05/16 [Tokyo 東京]
 ---
 
-06:30 [landed @NRT Airport](#landed) -> ~09:00 [Tokyo Station](#tokyo_station) -> [food](#first_meal) -> [Ikebukuro Station & Airbnb place](#ikebukuro_station) -> [Odaiba Onsen](#odaiba_onsen)
+06:30 [landed @NRT Airport](#landed) -> ~09:00 [Tokyo Station](#tokyo_station) -> [food & Post Office](#first_meal) -> [Ikebukuro Station & Airbnb place](#ikebukuro_station) -> [Odaiba Onsen](#odaiba_onsen)
 
 ---
 After <a name="landed">landed</a> around 06:30 am, we picked up our JR passes<sup>[1](#jrpass)</sup> and pocket Wifi<sup>[2](#pocketWifi)</sup> and got some cashes<sup>[3](#cash)</sup> from a ATM at the Narita International Airport. Then we took the Narita Express, covered by our JR Passes, to get to Tokyo!
@@ -23,7 +23,7 @@ We had been starving and this led us to believe there were tons of great restaur
 Matt and I were, in Katherine's words, so grumpy that it scared her. We got back to the station, failed to navigate back to the part packed with tons of food shops, ended up getting Ekibenes from a small shop, got back to the mall and ate there because the station was so crowded that there was no place for us to sit and eat.
 
 ![](day1/IMG_20160904_214125.jpg)
-Here comes my first meal in Japan! Looking at the picture still makes me hungry now 😂
+Here comes my first <a name="first_meal">meal</a> in Japan! Looking at the picture still makes me hungry now 😂
 
 After resting a bit in the mall, we went to the post office. Man, look at all these postcards! 😱
 ![](day1/IMG_20160904_224447.jpg)
@@ -31,7 +31,7 @@ After resting a bit in the mall, we went to the post office. Man, look at all th
 ![](day1/IMG_20160904_224503.jpg)
 They even have series of postcards for trains 😱
 
-Then we headed to Ikebukuro Station because the [place](https://www.airbnb.com/rooms/4585434) we were staying for the next three nights, booked through Airbnb, was about 15 mins from the station.
+Then we headed to <a name="ikebukuro_station">Ikebukuro Station</a> because the [place](https://www.airbnb.com/rooms/4585434) we were staying for the next three nights, booked through Airbnb, was about 15 mins from the station.
 
 There was small cheese tart shop with a long line waiting outside at Ikebukuro Station.
 ![](day1/IMG_20160904_233744.jpg)
