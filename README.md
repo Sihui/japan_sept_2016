@@ -1,1 +1,1 @@
-# japan_sept_2016
+# Sept. 2016 Japan Trip
