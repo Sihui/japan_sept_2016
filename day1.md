@@ -8,7 +8,7 @@ After <a name="landed">landed</a> around 06:30 am, we picked up our JR passes<su
 
 Trains in Japan are amazing! They are extremely clean, like most things in Japan, and comfortable. I'm not exaggerating when I say Shinkansen is more enjoyable than airplanes.
 
-<img src="day1/IMG_20160904_204924.jpg" width="450">
+<img src="day1/IMG_20160904_204924.jpg" width="500">
 
 
 I enjoyed the view along our ride very much. The sky was blue and clear. We passes some fields and saw a lot of typical, Japanese styled, small houses.
@@ -18,8 +18,11 @@ We were a bit tired, after the 13-hours flight, but also excited and ready for t
 After an hour-long ride, we finally arrived at the <a name="tokyo_station">Tokyo station</a>. It was about 9 am which was apparently a rush hour for people to commute to work. The station was fairly crowded. We saw a tons of food shops: different kind of hot steamed rice, bento box meals, and sweats everywhere!
 
 We had been starving and this led us to believe there were tons of great restaurants outside of the station waiting for us. The station was huge, it took us quite a while to figure out how to get outside. Long story short, after resisting all the temptations from foods inside the station and stumbling our ways through, we finally got out and there was nothing but office buildings and a mall with restaurants opening in about two hours.
-![](day1/14379890_1115746348475058_5032397402719858860_o.jpg)
-![](day1/14352256_1115746385141721_8737827987627050363_o.jpg)
+<img src="day1/14379890_1115746348475058_5032397402719858860_o.jpg" width="500">
+<img src="day1/14352256_1115746385141721_8737827987627050363_o.jpg" width="500">
+
+<!-- ![](day1/14379890_1115746348475058_5032397402719858860_o.jpg)
+![](day1/14352256_1115746385141721_8737827987627050363_o.jpg) -->
 
 Matt and I were, in Katherine's words, so grumpy that it scared her. We got back to the station, failed to navigate back to the part packed with tons of food shops, ended up getting Ekibenes from a small shop, got back to the mall and ate there because the station was so crowded that there was no place for us to sit and eat.
 
