@@ -4,20 +4,20 @@
 06:30 [landed @NRT Airport](#landed) -> ~09:00 [Tokyo Station](#tokyo_station) -> [food & Post Office](#first_meal) -> [Ikebukuro Station & Airbnb place](#ikebukuro_station) -> [Odaiba Onsen](#odaiba_onsen)
 
 ---
-After <a name="landed">landed</a> around 06:30 am, we picked up our JR passes<sup>[1](#jrpass)</sup> and pocket Wifi<sup>[2](#pocketWifi)</sup> and got some cashes<sup>[3](#cash)</sup> from a ATM at the Narita International Airport. Then we took the Narita Express, covered by our JR Passes, to get to Tokyo!
+After we <a name="landed">landed</a> around 06:30 am, we picked up our JR passes<sup>[1](#jrpass)</sup> and pocket Wifi<sup>[2](#pocketWifi)</sup> and got some cash<sup>[3](#cash)</sup> from an ATM at the Narita International Airport. Then we took the Narita Express, covered by our JR Passes, to get to Tokyo!
 
 Trains in Japan are amazing! They are extremely clean, like most things in Japan, and comfortable. I'm not exaggerating when I say Shinkansen is more enjoyable than airplanes.
 
 <img src="day1/IMG_20160904_204924.jpg" width="500"><br/>
 
 
-I enjoyed the view along our ride very much. The sky was blue and clear. We passes some fields and saw a lot of typical, Japanese styled, small houses.
+I enjoyed the view along our ride very much. The sky was blue and clear. We passed some fields and saw a lot of typical, Japanese styled, small houses.
 
-We were a bit tired, after the 13-hours flight, but also excited and ready for the awesome trip ahead of us! Although both Matt and I were a bit hungry after landed, we decided to hold our horses and wait till we get to Tokyo to get our first meal in Japan. "The first meal must to be legit and is worth waiting for!" I said to myself.
+We were a bit tired, after the 13-hours flight, but also excited and ready for the awesome trip ahead of us! Although both Matt and I were a bit hungry after we landed, we decided to hold our horses and wait till we got to Tokyo to get our first meal in Japan. "The first meal must be legit and is worth waiting for!" I said to myself.
 
-After an hour-long ride, we finally arrived at the <a name="tokyo_station">Tokyo station</a>. It was about 9 am which was apparently a rush hour for people to commute to work. The station was fairly crowded. We saw a tons of food shops: different kind of hot steamed rice, bento box meals, and sweats everywhere!
+After an hour-long ride, we finally arrived at the <a name="tokyo_station">Tokyo station</a>. It was about 9 am which was apparently a rush hour for people to commute to work. The station was fairly crowded. We saw tons of food shops: different kinds of hot steamed rice, bento box meals, and sweets everywhere!
 
-We had been starving and this led us to believe there were tons of great restaurants outside of the station waiting for us. The station was huge, it took us quite a while to figure out how to get outside. Long story short, after resisting all the temptations from foods inside the station and stumbling our ways through, we finally got out and there was nothing but office buildings and a mall with restaurants opening in about two hours.
+We had been starving and this led us to believe there were tons of great restaurants outside of the station waiting for us. The station was huge; it took us quite a while to figure out how to get outside. Long story short, after resisting all the temptations from foods inside the station and stumbling our ways through, we finally got out and there was nothing but office buildings and a mall with restaurants opening in about two hours.
 <img src="day1/14379890_1115746348475058_5032397402719858860_o.jpg" width="500"><br/>
 <img src="day1/14352256_1115746385141721_8737827987627050363_o.jpg" width="500"><br/>
 
@@ -50,7 +50,7 @@ After checking-in and dropping our bags at our Airbnb place, we were on our way 
 
 
 -----
-<a name="jrpass">1</a>: [Japan Rail Pass](http://www.japanrailpass.net/en/about_jrp.html), covers most railways, buses, and ferry boats, is the most economical means of traveling throughout Japan by rail. need to place the order and get a physical exchange order before coming to Japan, the exchange order need to be provided in order to pick up the actual pass after landed in Japan.
+<a name="jrpass">1</a>: [Japan Rail Pass](http://www.japanrailpass.net/en/about_jrp.html), covers most railways, buses, and ferry boats, is the most economical means of traveling throughout Japan by rail. need to place the order and get a physical exchange order before coming to Japan, the exchange order needs to be provided in order to pick up the actual pass after landed in Japan.
 
 <a name="pocketWifi">2</a>: super handy especially if you don't have an international data plan; most of our Airbnb hosts provided their pocket wifi for free, though; we ordered along with our JR passes, but you can also get it at the airport without ordering ahead of time
 
